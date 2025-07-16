@@ -1,4 +1,5 @@
 name = 'bitter-water-e6f4'
+compatibility_date = "2025-07-16"
 
 [env.prod.vars]
 API_URL = "https://api.follow.is"
