@@ -1,4 +1,4 @@
-name = "follow-email-worker"
+name = 'bitter-water-e6f4'
 
 [env.prod.vars]
 API_URL = "https://api.follow.is"
